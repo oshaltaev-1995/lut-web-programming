@@ -1,0 +1,11 @@
+{
+  "name": "lut-web-programming",
+  "version": "1.0.0",
+  "description": "Week 1 HTML/JS exercise",
+  "scripts": {
+    "start": "parcel index.html --port 1234"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
